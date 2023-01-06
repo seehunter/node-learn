@@ -30,7 +30,7 @@
         "autoprefixer": "9.5.1"
     },
     "dependencies": {
-        "httpster": "^1.0.4",
+        "httpster": "^1.1.0",
         "prop-types": "15.7.2",
         "react": "16.8.6",
         "react-dom": "16.8.6",
